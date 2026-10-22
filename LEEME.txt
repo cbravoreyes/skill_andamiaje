@@ -1,0 +1,11 @@
+PONENCIA EXPOCIENCIA 2026
+
+1. Descomprima el archivo ZIP.
+2. Para revisar la página, abra index.html. Mantenga la carpeta archivos a su lado.
+3. Suba index.html, .nojekyll y la carpeta archivos a la raíz de su repositorio de GitHub.
+4. Active GitHub Pages para la rama que contiene estos archivos y su carpeta raíz.
+5. Compruebe el enlace público que le proporcione GitHub.
+
+No es necesario instalar dependencias ni compilar. La lectura y los archivos descargables funcionan también sin conexión; el blog y el correo requieren una aplicación o conexión apropiada. El botón Copiar enlace necesita la página publicada mediante HTTPS.
+
+Se conserva el texto del documento suministrado desde Resumen hasta Bibliografía. Los encabezados de anexos vacíos no se muestran en la página; el Word descargable conserva el documento original. La publicación en GitHub no se ha realizado.
